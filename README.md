@@ -7,6 +7,9 @@ npm run build
 
 ```
 
+#Live Link
+https://portfolio.afaqjaved.com/dist/
+
 
 # Credits to Figma Design
 
